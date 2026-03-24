@@ -1,5 +1,5 @@
 {
-  "verAddr": "https://raw.githubusercontent.com/karthikeyasirigidi/ff-server/main/version.json",
+  "verAddr": "https://raw.githubusercontent.com/KARTHIKEYASIRIGIDI/ff-server/main/version.json",
   "resetGuest": true,
   "default_login": "guest"
 }
